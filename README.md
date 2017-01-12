@@ -2,11 +2,11 @@
 Deterministic spellchecker that flags the misspelled words in a text file by checking the validity of the words from a dictionary passed in as second argument to the program.  
 
 ##Usage
-``` 
-//usage format
+```bash 
+#usage format
 speller [dictionary] text
 
-//usage example
+#usage example
 ./speller dictionaries/large texts/witch.txt
 ```
 
