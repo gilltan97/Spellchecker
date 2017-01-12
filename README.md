@@ -1,6 +1,5 @@
 # Spellchecker
-Deterministic spellchecker that flags the misspelled words in a text file. 
-Checks the validity of the words from a dictionary passed in as second argument to the program.  
+Deterministic spellchecker that flags the misspelled words in a text file by checking the validity of the words from a dictionary passed in as second argument to the program.  
 
 ##Usage
 ``` 
