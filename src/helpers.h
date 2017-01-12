@@ -36,7 +36,6 @@ bool free_node(node* trie_node_)
     {
         return true;
     }
-    
     // Free the allocated memory for each node 
     else
     {
