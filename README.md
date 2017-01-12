@@ -4,10 +4,10 @@ Checks the validity of the words from a dictionary passed in as second argument 
 
 ##Usage
 ``` 
-// usage format
+# usage format
 speller [dictionary] text
 
-// usage example
+# usage example
 ./speller dictionaries/large texts/witch.txt
 ```
 
