@@ -7,7 +7,7 @@ Deterministic spellchecker that flags the misspelled words in a text file by che
 speller [dictionary] text
 
 #usage example
-./speller dictionaries/large texts/witch.txt
+speller dictionaries/large texts/witch.txt
 ```
 
 ##Output Format
