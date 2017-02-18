@@ -1,11 +1,3 @@
-#
-# Makefile
-#
-# Computer Science 50
-# Problem Set 5
-#
-
-
 # compiler to use
 CC = clang
 
