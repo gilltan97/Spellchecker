@@ -54,7 +54,6 @@ bool check(const char* word)
 /**
  * Loads dictionary into memory. Returns true if successful else false.
  */
- // BUGGY
 bool load(const char* dictionary)
 {
     // Open the dictionary and check if it opens fine
