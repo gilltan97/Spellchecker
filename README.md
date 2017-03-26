@@ -1,16 +1,16 @@
 # Spellchecker
 Deterministic spellchecker that flags the misspelled words in a text file by checking the validity of the words from a dictionary passed in as second argument to the program.  
 
-##Usage
+## Usage
 ```bash 
-#usage format
+# usage format
 speller [dictionary] text
 
-#usage example
+# usage example
 speller dictionaries/large texts/witch.txt
 ```
 
-##Output Format
+## Output Format
 ```
 ==MISSPELLED WORDS==
 BEDEVERE
